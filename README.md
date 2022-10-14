@@ -43,5 +43,9 @@ Our dataset focuses on greenhouse gas emission (CO2 in particular), GDP and fore
 
 {Add your credits, acknowledgements, references, or citations **including a link to the data source** here}
 
+Link to our data sets:
+1. [CO2 EMISSION](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
+2. [GLOBAL GDP](https://ourworldindata.org/grapher/gdp-per-capita-worldbank?tab=chart)
+3.[GLOBAL SHARE FOREST AREA](https://ourworldindata.org/grapher/share-global-forest)
 
 
