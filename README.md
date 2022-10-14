@@ -12,19 +12,20 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 **Please remember to update this section**
 
-{Add your stuff here}
+Coming from technical background, each group member of this project have high interest in understanding climate change and how it compares to countries with different GDPS and different amount of forest area shared. We are interested in finding out how CO2 emission is co-related to GDP and forest area shared from our dataset.
 
 ## Describe your dataset in about 150-200 words
 
 **Please remember to update this section**
 
-{Add your stuff here}
+Our dataset focuses on greenhouse gas emission (CO2 in particular), GDP and forest area shared by countries globally. We have three different datasets combined together which are on global Carbon-dioxide emission, global GDP and global share forest area. The dataset has datas collected on these 3 different topics from year 1990-2019 for 195 countries.
+
 
 ## Team Members
 
 **Please remember to update this section**
 
-- Person 1: one sentence about you!
+- Shila: Hi I am Shila, a fourth year Computer Science student!
 - Person 2: one sentence about you!
 - Person 3: one sentence about you!
 
