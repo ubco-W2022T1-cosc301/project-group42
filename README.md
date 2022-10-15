@@ -32,7 +32,7 @@ The CO2 emissions data was collected to help world leaders be aware of how much 
 
 - Shila: Hi I am Shila, a fourth year Computer Science student!
 - Maya: Hello, I'm Maya! I'm a third year computer science student and I'm from Calgary
-- Person 3: one sentence about you!
+- Jayden: Hey I'm Jayden, a second year computer science student.
 
 ## Images
 
