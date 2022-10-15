@@ -1,4 +1,4 @@
-# Group YYY - {Short snappy Title of your project}
+# Group 42 - Worldwide Analysis of Climate Change, GDP, and Global Forest Area
 
 **Please remember to update this section**
 
@@ -18,7 +18,12 @@ Coming from technical background, each group member of this project have high in
 
 **Please remember to update this section**
 
-Our dataset focuses on greenhouse gas emission (CO2 in particular), GDP and forest area shared by countries globally. We have three different datasets combined together which are on global Carbon-dioxide emission, global GDP and global share forest area. The dataset has datas collected on these 3 different topics from year 1990-2019 for 195 countries.
+We have three different datasets which focus on greenhouse gas emissions (CO2 in particular) world wide, GDP per country and forest area shared by countries globally. 
+We plan to combine these data sets based on country and year. All of our datasets have data collected on these 3 different topics from the years 1990 to 2019, for 195 countries.
+The dataset regarding forest area, obtained it’s data from the United Nations (UN) food and agriculture organization who used satellite imagery, remote sensing, and country reports to collect data. The GDP data and the CO2 emissions data was obtained from the worldbank. In general GDP is calculated by each country’s government. The CO2 emissions were calculated on the available data on fossil fuel consumptions provided by the UN.
+
+The CO2 emissions data was collected to help world leaders be aware of how much CO2  their country emits and to help scientists further study the relationship between CO2 and global warming. The GDP data was collected to study the economic situation of each country for a specific year. The forest area data was collected to keep a historical record of the world’s forests.
+
 
 
 ## Team Members
@@ -26,7 +31,7 @@ Our dataset focuses on greenhouse gas emission (CO2 in particular), GDP and fore
 **Please remember to update this section**
 
 - Shila: Hi I am Shila, a fourth year Computer Science student!
-- Person 2: one sentence about you!
+- Maya: Hello, I'm Maya! I'm a third year computer science student and I'm from Calgary
 - Person 3: one sentence about you!
 
 ## Images
