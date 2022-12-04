@@ -3,6 +3,17 @@
 ## Introduction:
 Global warming is becoming a bigger and bigger threat to our earth, for this reason we think it’s important to analyze one of the biggest contributors to global warming, CO2 emissions. Additionally, we have an interest in investigating how Gross Domestic Product (GDP)  and Global Forest Area (GFA) relate to CO2 emissions.
 
+
+## Exploratory Data Analysis
+Here are some highlights of our EDA. Parts of our EDA will also be explained in how we answer our research questions. 
+
+These two graphs were created to compare how CO2 emissions per capita changed over time, for low GDP and high GDP countries.  
+
+![EDA1](images/notebook2eda1.png)
+
+![EDA2](images/notebook2eda2.png)
+
+
 ## Questions
 
 ### 1. Globally how have CO2 emissions and GDP changed over the years 
