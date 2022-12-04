@@ -45,3 +45,8 @@ High GDP countries seem to have lowered their CO2 emissions in recent years, yet
 
 
 ## Summary
+We learned a lot from doing this project, these are some of our key findings:
+- Globally, GDP and CO2 do not move together 
+- Countries that decrease their CO2 emissions do not see a decrease in their GDP
+- GDP and CO2 emissions (per capita) move together closely for the 15 countries with the lowest GDP. However, for the 15 countries with the highest GDP, they do not move together. 
+- Countries with a high GDP, have a much higher CO2 emissions per capita rate when compared to the rest of the world
