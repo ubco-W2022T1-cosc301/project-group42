@@ -42,7 +42,11 @@ This bar graph shows CO2 emissions per capita on average, for high GDP countries
 From this bar graph we can see that high GDP countries have incredibly high CO2 emissions per capita that range from 17 - 13 tons. Meanwhile, the rest of the world, averages around 3 tons per year and low GDP countries emit less than 1 ton per capita.
 High GDP countries seem to have lowered their CO2 emissions in recent years, yet they still have a much higher average of CO2 emissions per capita when compared to the rest of the world and low GDP countries. 
 
-
+### 5. Is GDP in any way related to a country's owned forest area?\
+![plotGDP](images/top15GDP.png)
+![plotGFA](images/bottom15GFA.png)
+To answer this question, I made a sub question to compare the Countires with top 15 GDP with top 15 GFA and bottom 15 GFA. Similarly, I also compared bottom 15 GDP with top 15 GFA and bottom 15 GFA. From my analysis, I understtod that even though there are some countires from top 15 GDP that match to bottom 15 GFA, like Qatar and Quwait(belonging to 15 GDP) and are also in bottom 10 GFA, then there is USA whihc belongs to both top 15 GDP countries and with top 15 GFA countries too!
+The relationship between GDP and GFA is not direct, it depends on many other factors like geographical location, countries area as from our graph we can see that courntries belonging to the highest GFA are usually the countires with bigger land / area.
 
 ## Summary
 We learned a lot from doing this project, these are some of our key findings:
@@ -50,3 +54,4 @@ We learned a lot from doing this project, these are some of our key findings:
 - Countries that decrease their CO2 emissions do not see a decrease in their GDP
 - GDP and CO2 emissions (per capita) move together closely for the 15 countries with the lowest GDP. However, for the 15 countries with the highest GDP, they do not move together. 
 - Countries with a high GDP, have a much higher CO2 emissions per capita rate when compared to the rest of the world
+- Globally, GDP and GFA do not move together, there is no direct relationship between them, it depends on many other factors too
